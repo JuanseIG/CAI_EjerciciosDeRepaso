@@ -1,0 +1,7 @@
+C:\Users\Juanse\Documents\GitHub\CAI_EjerciciosDeRepaso\Ejercicios de repaso\Ejercicios de repaso\bin\Debug\Ejercicios de repaso.exe.config
+C:\Users\Juanse\Documents\GitHub\CAI_EjerciciosDeRepaso\Ejercicios de repaso\Ejercicios de repaso\bin\Debug\Ejercicios de repaso.exe
+C:\Users\Juanse\Documents\GitHub\CAI_EjerciciosDeRepaso\Ejercicios de repaso\Ejercicios de repaso\bin\Debug\Ejercicios de repaso.pdb
+C:\Users\Juanse\Documents\GitHub\CAI_EjerciciosDeRepaso\Ejercicios de repaso\Ejercicios de repaso\obj\Debug\Ejercicios de repaso.csproj.AssemblyReference.cache
+C:\Users\Juanse\Documents\GitHub\CAI_EjerciciosDeRepaso\Ejercicios de repaso\Ejercicios de repaso\obj\Debug\Ejercicios de repaso.csproj.CoreCompileInputs.cache
+C:\Users\Juanse\Documents\GitHub\CAI_EjerciciosDeRepaso\Ejercicios de repaso\Ejercicios de repaso\obj\Debug\Ejercicios de repaso.exe
+C:\Users\Juanse\Documents\GitHub\CAI_EjerciciosDeRepaso\Ejercicios de repaso\Ejercicios de repaso\obj\Debug\Ejercicios de repaso.pdb
